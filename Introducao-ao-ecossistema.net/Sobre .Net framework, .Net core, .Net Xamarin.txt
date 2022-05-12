@@ -1,0 +1,43 @@
+ Característica Principais
+
+- Gerenciamento de memória
+- Sistema de tipos comum -> tipos definidos pelo própio framework
+- Grande e específicas bibliotecas de classes utilitárias
+- Interoperabiliddade entre linguagens
+- Compatibilidade de versôes
+- Uso do .NET Standard ->
+
+ Sobre .NET Core e .NET
+
+- Plataoforma cruzada: Linux, Windows e Mac OS
+- Produzir um produto com base de código única
+- Open Source -. MIT e Apache 2
+- .NET = .NET Core + .NET Framework + Xamarin + Mono
+- Aquisição facilitada a partir do NUGET
+- Modular e com melhor desempenho
+- Ciclos de lançamentos mais rápidosde 
+
+ Sobre ASP.NET core
+
+Construção de aplicações web, IoT apps e aplicações backend para mobile
+Funcionalidades para construção de aplicações no servidor
+- Uso do MVC -> ASP.NET Core MVC
+ Uso de Padrão MVC (Model-View-Controller)
+ 1. Model: Representa o estado da aplicação, encapsulando lógica de negócio.
+ 2. View: Responsável por apresentar dados através de interface.
+ 3. Controller: Componentes que lidam com a interação do usuário a partir da view e trabalham 
+com a model para apresentar respostas para o usuário.  
+
+ Xamarin.Forms
+
+- Framework open source para desenvolvimento de interfaces para o usuário
+- Aplicativos Android, IOS e Windows com única base de código
+- Criação de UI com XAML e lógicacom C#
+- Uso de bibliotecas Xamarin.Essentials
+  Informacões de dispositivos, sistema de arquivos, acelermetro^, bloqueio de tela.;.
+XAML- Extensible application markup language
+
+ Xamarin.Android
+- Compilação de C# para LI(linguagem intermediária) que por sua vez é compilado para assembly nativo
+no momento da execução
+- Execultado no ambiente Mono + ART

@@ -1,0 +1,52 @@
+ O que é .net? E asp.net?
+
+- .NET é uma plataforma de desenvolvimento com diversas ferramentas,
+linguagens de programação e bibliotecas.
+- Asp.NET é um framework que estende .NET para a criação web apps.
+
+ Sobre .NET
+
+- Gratuita e de software livre
+- Plataforma Cruzada
+- Tipos de aplicação
+web, mobile, desktop, microservices, cloud, machine learning, jogos
+internet das coisas.  
+
+ Biblioteca para desenvolvimento e execução de aplicações .NET
+
+- SDK
+- Runtime
+
+ Acesso a Dados
+
+- ORM Entity framework core
+- Linq consulta integrada a linguagem
+
+ Ambientes CI\CD
+
+- Github Actions
+- Azure Devops
+- Cake\ Fake 
+
+ Sobre ASP.NET e ASP.NET Core
+
+- Aplicações Web
+páginas web, REST APIs, microservices, hubs
+- Processamentos de requisições web (c# e F#)
+- Criação de páginas web de forma denâmica
+- Bibliotecas para web patterns
+- Sistema de Autenticação
+- Extensões para produtividade
+
+ Repositórios e sites importantes
+
+- Repositório oficial dotnet no github -> core/core-repos.md_at_main dotnet/core(github.com)
+- Documentção da plataforma .net -> https://docs.microsoft.com/pt-br/dotnet/
+- Site oficial .net foundation -> .net foundation(dotnetfoundation.org)
+
+
+
+ 
+
+
+

@@ -1,0 +1,50 @@
+ Bom Código
+
+- Ser confiável
+- Ser sustentável
+- Ser eficiente
+
+Padronizar
+
+- Melhorar comunicação entre equipe
+- Facilitar manutenção de códigos 
+- Utilizar documentação e boas práticas de codificação, como clean code
+
+Clean code
+
+- Conjunto de boas práticas na escrita de software para obtenção de maior
+legibilidade e manutenibilidade de código. 
+
+ Regras Gerais
+
+- Siga sempre as convenções adotadas pela eequipe
+- Kiss keep it stupid simple -> Mantenha isto estupidamente simples
+- Devolva o código mais limpo do que você encontrou
+- Busque sempre entender e solucionar os problemasa partir de sua raiz
+
+ 
+ Convenções de Nomenclatura
+
+- Camel Case
+ ex: valorDoDesconto, nomeCompleto, totalSalario
+
+- Pascal Case
+ ValorDoDesconto, NomeCompleto, TotalSalario
+
+ C#
+
+A maioria dos desenvolvedores usam
+- Nome de classes e métodos -> PascalCase
+- Nome de variáveis e parâmetros-> CamelCase
+No caso de interfaces recomenda-se o uso do prefixo "I"
+ex: IEntidade, IRepositorioCliente
+
+ Recomendacões da Microsoft
+´
+ Uso do PascalCase
+- Classes
+- Interfaces
+- Membros de tipos públicos
+
+ Uso com CamelCase
+ - Campos privados e internos -> deve-se ainda usá-los com prefixo"_".

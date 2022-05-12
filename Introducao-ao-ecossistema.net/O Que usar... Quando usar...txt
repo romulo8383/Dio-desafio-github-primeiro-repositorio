@@ -1,0 +1,28 @@
+ Qual implementação escolher?
+
+- Use .NET
+ Necessidade de plataforma cruzada, Há direcionamento de microsserviços
+ Azure Service
+ Azure App Service
+
+- Uso de Docker
+ Hospedagem em infraestrutura Linux ou windows
+ Azure Kurbenetes Service
+ Alto desempenho e sistemas escalonáveis
+ necessidade de versões .NET diferentees por aplicação
+
+- Use .NET Framework quando
+
+ Não houver necessidade de migração para .NET
+ Nibliotecas de terceiros ou pacotes NUGET não são disponiveis para .NET
+ Necessidade de tecnologias não disponiveis para .NET 
++ ASP.NET WebForms
++ ASP.NET web pages não etsão incluidos nop ASP.NET core
++ Implementação do lado servidor para wcf
++ workflow foundation, workflow Services e workflow data Services
+ Quando o projeto nao suporta determinada linguagem para o caso
+de visual basic e f#
+  
+
+
+
